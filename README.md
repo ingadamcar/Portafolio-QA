@@ -1,5 +1,5 @@
-# Portafolio QA
+# Urban Grocers API Testing
 
-En este repositorio se incluyen algunos proyectos y prácticas de QA testing, asi como de Web Development públicos realizados durante mi trayectoria y mi formación como tester.
+En este proyecto se diseñaron y ejecutaron pruebas de API manuales para validar principalmente códigos de estado utilizando Postman siguiendo estrictamente los requerimientos dados para el proyecto.
 
-This repository includes some public QA testing and Web Development projects and practices carried out during my career and training as a tester.
+In this project, manual API tests were designed and executed to primarily validate status codes using Postman, strictly adhering to the project’s specified requirements.
